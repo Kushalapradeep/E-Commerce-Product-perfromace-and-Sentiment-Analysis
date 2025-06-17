@@ -114,6 +114,7 @@ Sentiment & Delivery (Sentiment vs sales, delay analysis, feedback)
   
 
 📌  Key Insights with Recommendations
+
 Business Performance
 → Total revenue stands at ₹4.97M from 5,000 orders and 2,500 customers, with a strong ROAS of ~14.8.
 ✅ Continue investing in high-yield channels and optimize order handling to support growth.
