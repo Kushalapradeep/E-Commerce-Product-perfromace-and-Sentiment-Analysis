@@ -78,6 +78,7 @@ Solved Using: SQL delay %, avg time + Power BI visual
 
 Insight: 18% of deliveries are severely delayed; targeted regions identified for logistics optimization
 
+
 🔧 Excel Transformations
 
 Removed duplicates, handled missing values
@@ -104,13 +105,15 @@ Customer & Marketing (Segments, top customers, channel ROAS)
 
 Sentiment & Delivery (Sentiment vs sales, delay analysis, feedback)
 
+
 📄 Files in This Repository
 - Blinkit Dataset( 8 files)
 - Transformed Excel file
 - Blinkit_sql queries.sql
 - Blinkit_dashboard-Pdf
+  
 
-  📌  Key Insights with Recommendations
+📌  Key Insights with Recommendations
 Business Performance
 → Total revenue stands at ₹4.97M from 5,000 orders and 2,500 customers, with a strong ROAS of ~14.8.
 ✅ Continue investing in high-yield channels and optimize order handling to support growth.
